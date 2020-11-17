@@ -131,3 +131,6 @@ dmypy.json
 # VScode files
 .vscode/
 mysite.code-workspace
+
+# Django setting
+mysite/mysite/settings.py
