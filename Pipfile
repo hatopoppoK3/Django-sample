@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+isort = "*"
+importlib-metadata = "==1.7.0"
+flake8 = "*"
+
+[packages]
+django = "*"
+
+[requires]
+python_version = "3.7"
